@@ -234,7 +234,7 @@ section.quote .layar-dalam p {
 section#vr{ 
     background-color: #ababab;
 } 
-@media screen and (max-width: 991.98px
+@media screen and (max-width: 100px
 height: auto) {
     .layar-dalam {
         width: 90%;
